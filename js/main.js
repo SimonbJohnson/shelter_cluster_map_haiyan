@@ -1,12 +1,12 @@
 // two base layers created
 
 var base_hotosm = L.tileLayer(
-        'https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',{
+        'http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',{
         attribution: '&copy; OpenStreetMap contributors, <a href="http://hot.openstreetmap.org/">Humanitarian OpenStreetMap Team</a>'}
 );
 
 var base_osm = L.tileLayer(
-        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+        'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
         attribution: '&copy; OpenStreetMap contributors'}
 );
 
