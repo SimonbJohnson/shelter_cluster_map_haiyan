@@ -26,7 +26,7 @@ var overlay_es_reached = L.mapbox.tileLayer('brcmaps.l0v34n29');
 
 var overlay_ssr_planned = L.mapbox.tileLayer('brcmaps.ma9n3ik9');
 
-var overlay_ssr_reached = L.mapbox.tileLayer('brcmaps.slri19k9');
+var overlay_ssr_reached = L.mapbox.tileLayer('brcmaps.yjaqyqfr');
 
 // two 3w layers created
 // these consist of teasers and basemap of boundaries
